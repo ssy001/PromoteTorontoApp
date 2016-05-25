@@ -21,5 +21,5 @@ Features implemented:
 
 3) Map view of points of interest
 
-4) Bixi Bike map (missing bike locations overlay)
+4) Bixi Bike map (requires bike locations overlay)
 
