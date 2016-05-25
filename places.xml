@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>lat</key>
+		<string>43.642424</string>
+		<key>lng</key>
+		<string>-79.385865</string>
+		<key>title</key>
+		<string>Ripley's Aquarium</string>
+		<key>url</key>
+		<string>http://www.ripleyaquariums.com/canada/</string>
+	</dict>
+	<dict>
+		<key>lat</key>
+		<string>43.642566</string>
+		<key>lng</key>
+		<string>-79.387057</string>
+		<key>title</key>
+		<string>CN Tower</string>
+		<key>url</key>
+		<string>http://www.cntower.ca/en-ca/home.html</string>
+	</dict>
+	<dict>
+		<key>lat</key>
+		<string>43.817699</string>
+		<key>lng</key>
+		<string>-79.18589</string>
+		<key>title</key>
+		<string>Toronto Zoo</string>
+		<key>url</key>
+		<string>http://www.torontozoo.com/</string>
+	</dict>
+	<dict>
+		<key>lat</key>
+		<string>43.66771</string>
+		<key>lng</key>
+		<string>-79.394777</string>
+		<key>title</key>
+		<string>Royal Ontario Museum</string>
+		<key>url</key>
+		<string>http://www.rom.on.ca/en</string>
+	</dict>
+	<dict>
+		<key>lat</key>
+		<string>43.653607</string>
+		<key>lng</key>
+		<string>-79.392512</string>
+		<key>title</key>
+		<string>Art Gallery of Ontario</string>
+		<key>url</key>
+		<string>http://www.ago.net/</string>
+	</dict>
+	<dict>
+		<key>lat</key>
+		<string> 43.725887</string>
+		<key>lng</key>
+		<string>-79.453206</string>
+		<key>title</key>
+		<string>Yorkdale Mall</string>
+		<key>url</key>
+		<string>http://yorkdale.com/</string>
+	</dict>
+	<dict>
+		<key>lat</key>
+		<string>43.653597</string>
+		<key>lng</key>
+		<string>-79.381455</string>
+		<key>title</key>
+		<string>Eaton Center</string>
+		<key>url</key>
+		<string>http://www.torontoeatoncentre.com/en/Pages/default.aspx</string>
+	</dict>
+	<dict>
+		<key>lat</key>
+		<string> 43.65344</string>
+		<key>lng</key>
+		<string>-79.38409</string>
+		<key>title</key>
+		<string>City Hall</string>
+		<key>url</key>
+		<string>http://www.toronto.ca/</string>
+	</dict>
+	<dict>
+		<key>lat</key>
+		<string>43.646988</string>
+		<key>lng</key>
+		<string>-79.377264</string>
+		<key>title</key>
+		<string>Hockey Hall of Fame</string>
+		<key>url</key>
+		<string>http://www.hhof.com/</string>
+	</dict>
+	<dict>
+		<key>lat</key>
+		<string>43.643466</string>
+		<key>lng</key>
+		<string>-79.379099</string>
+		<key>title</key>
+		<string>Air Canada Center</string>
+		<key>url</key>
+		<string>http://www.theaircanadacentre.com/</string>
+	</dict>
+</array>
+</plist>
